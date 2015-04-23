@@ -205,7 +205,8 @@ a:before, a:after {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/header_bg.jpg) no-repeat center top;
+    /*	background: url(../img/header_bg.jpg) no-repeat center top; */
+    
 	margin-top: -50px;
 	padding-top: 120px;
 	text-align: center;
@@ -222,6 +223,10 @@ a:before, a:after {
 	-o-background-size: cover;
 	background-size: cover;
 	padding-bottom: 100px;
+	color: #fff;
+	text-align: center;
+	background-color: #159957;
+	background-image: linear-gradient(120deg, #155799, #159957);
 }
 #headerwrap h1 {
 	color: #ffffff;
