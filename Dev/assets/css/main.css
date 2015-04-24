@@ -284,6 +284,62 @@ a:before, a:after {
 	margin-top: 65px;
 }
 
+#mentores {
+	background: #fff;
+	padding: 60px 0;
+}
+#mentores H4 {
+	padding-top: 10px;
+}
+#mentores p.large {
+	margin-top: 60px;
+	margin-bottom: 40px;
+}
+#mentores .fa {
+	width: 30px;
+	height: 30px;
+	margin: 0 3px;
+	border-radius: 100%;
+	font-size: 15px;
+	line-height: 30px;
+	outline: 0;
+	color: #fff;
+	background-color: #c4c4c4;
+	-webkit-transition: all .3s;
+	-moz-transition: all .3s;
+	transition: all .3s;
+}
+#mentores .fa:hover {
+	background-color: #ffbf00;
+}
+#juizes {
+	background: #f5f5f5;
+	padding: 60px 0;
+}
+#juizes H4 {
+	padding-top: 10px;
+}
+#juizes p.large {
+	margin-top: 60px;
+	margin-bottom: 40px;
+}
+#juizes .fa {
+	width: 30px;
+	height: 30px;
+	margin: 0 3px;
+	border-radius: 100%;
+	font-size: 15px;
+	line-height: 30px;
+	outline: 0;
+	color: #fff;
+	background-color: #c4c4c4;
+	-webkit-transition: all .3s;
+	-moz-transition: all .3s;
+	transition: all .3s;
+}
+#juizes .fa:hover {
+	background-color: #ffbf00;
+}
 #team {
 	background: #f5f5f5;
 	padding: 60px 0;
@@ -312,11 +368,11 @@ a:before, a:after {
 #team .fa:hover {
 	background-color: #ffbf00;
 }
-#portfolio {
+#patrocinadores {
 	background: #fff;
 	padding: 60px 0;
 }
-#portfolio .btn-default {
+#patrocinadores .btn-default {
 	border: 0;
 }
 #contact {
